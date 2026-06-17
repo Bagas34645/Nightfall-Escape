@@ -5,8 +5,14 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Dungeon/Scenes/SampleScene URP.unity
     guid: d8dab43339e9aea4bac5179981089898
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 89ec4e2cae0efd1498a356c6048272f3
+  - enabled: 1
+    path: Assets/Scenes/NightfallEscape.unity
+    guid: c722b299ce0ea7f42ad7f3809f31ed41
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
